@@ -1,0 +1,74 @@
+{ "weaponName":"Grasp of Malok",
+  "columns":[
+    { "name": "Column 1 (sights)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Red Dot-OES",
+          "Red Dot-OAS",
+          "Red Dot-ORS",
+          "Red Dot-ORS1",
+          "Red Dot-ORES"]},
+        {"name": "row 2", "perks":[
+          "Focus Lens FLS2",
+          "Ranged Lens RLR5",
+          "Focus Lens FLA5"]},
+        {"name": "row 3", "perks":[
+            "QuickDraw IS",
+            "TrueSight IS"]}]},
+    { "name": "Column 2 (Major Perk 1)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Partial Refund",
+          "Life Support",
+          "Surrounded",
+          "Secret Round",
+          "Headseeker",
+          "Outlaw",
+          "Eye of the Storm",
+          "Danger Close",
+          "Exhumed",
+          "Range Finder",
+          "Counterbalance"]}]},
+    { "name": "Column 3 (Major Perk 2)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Perfect balance",
+          "Hand Loaded",
+          "Speed Reload",
+          "Lightweight",
+          "Fitted Stock"
+        ]},
+        {"name": "row 2", "perks":[
+          "Braced Frame",
+          "Reinforced Barrel",
+          "Casket Mag",
+          "Smallbore",
+          "Skip Rounds",
+          "Hand-laid Stock",
+          "Feather Mag",
+          "Injection Mold",
+          "Oiled Frame"
+        ]},
+        {"name": "row 3", "perks":[
+          "Mutiny",
+          "Sword of Aegeus",
+          "Malleus Maleficarum",
+          "Demotion",
+          "Will of Light",
+          "Hannibal",
+          "Disciplinarian"
+        ]}]},
+    { "name": "Column 4 (Major Perk 3)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Guerilla Fighter",
+          "Spray and Play",
+          "Army of One",
+          "Grenadier",
+          "Third Eye",
+          "Last Resort",
+          "Glass Half Full",
+          "Feeding Frenzy"
+        ]}]}
+  ]
+}

@@ -1,0 +1,76 @@
+{ "weaponName":"Imago Loop",
+  "columns":[
+    { "name": "Column 1 (sights)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "SteadyHand IS",
+          "TrueSight IS"
+          ]},
+        {"name": "row 2", "perks":[
+          "FastDraw IS",
+          "SureShot IS"
+          ]},
+        {"name": "row 3", "perks":[
+            "QuickDraw IS"]}]},
+    { "name": "Column 2 (Major Perk 1)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Partial Refund",
+          "Rescue Mag",
+          "Surrounded",
+          "Relentless Tracker",
+          "Spray and Play",
+          "Triple Tap",
+          "Last Resort",
+          "Underdog",
+          "Danger Close",
+          "Exhumed",
+          "Outlaw",
+          "Range Finder",
+          "Hotswap"]}]},
+    { "name": "Column 3 (Major Perk 2)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Extended Mag",
+          "Hand Loaded",
+          "Hammer Forged",
+          "Lightweight",
+          "Snapshot"
+        ]},
+        {"name": "row 2", "perks":[
+          "Braced Frame",
+          "Reinforced Barrel",
+          "Casket Mag",
+          "Smallbore",
+          "Explosive Rounds",
+          "Rifled Barrel",
+          "Feather Mag",
+          "Injection Mold",
+          "High-Caliber Rounds",
+          "Oiled Frame"
+        ]},
+        {"name": "row 3", "perks":[
+          "Mutiny",
+          "Sword of Aegeus",
+          "Malleus Maleficarum",
+          "Demotion",
+          "Will of Light",
+          "Hannibal",
+          "Disciplinarian"
+        ]}]},
+    { "name": "Column 4 (Major Perk 3)",
+      "rows":[
+        {"name": "row 1", "perks":[
+          "Mulligan",
+          "Luck in the Chamber",
+          "Army of One",
+          "Grenadier",
+          "Third Eye",
+          "Firefly",
+          "Hidden hand",
+          "Icarus",
+          "Life Support",
+          "Reactive Reload"
+        ]}]}
+  ]
+}
